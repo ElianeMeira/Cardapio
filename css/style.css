@@ -1,0 +1,33 @@
+img {
+    width: 150px;
+    padding: 0px 10px;
+}
+
+h1 {
+    color:tomato;
+}
+
+h2 {
+    color:darkcyan;
+}
+#texto {
+    padding: 10px 10px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: baseline;
+    background-color:lightcoral
+    }
+
+.FormText{
+    color: black;
+}
+
+h5 {
+    color:darkorchid;
+}
+.Redes img{
+    width: 50px;
+}
+body {
+    background-color: bisque;
+}
